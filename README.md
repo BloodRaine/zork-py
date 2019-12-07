@@ -1,13 +1,9 @@
-# Zork.py
 
-Thank you for downloading a copy of Zork, The PY Edition!
-This Python Program is based loosely on the Storyline of Zork I, and is intended to run and function exactly like the original -
-the only difference being that this version is written with Python and can therefore be run and downloaded for free!
+## Cade Crandall
+CSCI 102 Section B
+Python Lab EC Code Enhancements
 
-To get started:
-1. Unzip/Extract the files within this folder to your computer
-1. If you do not have the latest version of Python 3 installed, please install it from http://www.python.org/download
-1. Open the file named "zork.py"
-1. Have Fun!
 
-**Note: This program is built to run on Python 3.**
+ I attempted only the first part of this extra credit assignment due to time constraints. I successfully completed all of its requirements and believe that I have made a much more functional program than the one provided. 
+ 
+ Most of my challenges involved figuring out how I wanted to set up the game so that it could be modular, and I am happy with my solution which involved a lot of trial and error. 
